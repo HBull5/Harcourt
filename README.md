@@ -1,5 +1,3 @@
-# harcourt
+# This is the new-branch
 
-## This is my first repository 
-
-## My favorite color is green
+## and things are a little different
